@@ -1,0 +1,25 @@
+﻿
+.login-form{
+	width: 200px;
+	height: 100px;
+	margin:auto;
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+}
+.login-form-input{
+	margin-top: 10px;
+    border-top-style:none;
+    border-left-style:none;
+    border-right-style:none;
+
+}
+
+.login-form-button{
+	border-style: solid;
+	background-color: white;
+	margin-top: 10px;
+	width:169px;
+}

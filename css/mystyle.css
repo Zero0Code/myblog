@@ -2,24 +2,39 @@
 .login-form{
 	width: 200px;
 	height: 100px;
-	margin:auto;
-	position: fixed;
-	top: 0px;
-	bottom: 0px;
-	right: 0px;
-	left: 0px;
+	margin-top:-50px;
+	margin-left:-100px;
+	position: absolute;
+    left:50%;
+    top:40%;
 }
 .login-form-input{
-	margin-top: 10px;
+	margin-top: 15px;
+	/*padding-top: 20px;*/
+	padding-bottom: 0px;
     border-top-style:none;
     border-left-style:none;
     border-right-style:none;
+    width:200px;
+    height:38px;
+    vertical-align: text-bottom;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: bottom;
+    border-color: black;
+
+
 
 }
 
 .login-form-button{
 	border-style: solid;
 	background-color: white;
-	margin-top: 10px;
-	width:169px;
+	margin-top: 15px;
+	width:200px;
+    height:40px;
+    font-size: 18px;
+    border-color: black;
+    border-radius: 15px;
+
 }

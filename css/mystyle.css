@@ -1,4 +1,4 @@
-﻿
+﻿/*登录页面*/
 .login-form{
 	width: 200px;
 	height: 100px;
@@ -38,3 +38,46 @@
     border-radius: 15px;
 
 }
+/*登录页面END*/
+
+/*首页*/
+.index-top{
+    width:100%;
+    height:5%;
+}
+
+.index-top-title{
+	position: absolute;
+    left:25%;
+    font-size: 28px;
+}
+
+
+.index-middle{
+	margin-top:10px;
+	margin-bottom: 10px;
+    width:100%;
+    height:100%;
+}
+
+.index-middle-blog{
+   position: absolute;
+   left:25%;
+}
+
+.index-middle-blog-title{
+   font-size: 16px;
+   font-weight: bold;
+}
+
+.index-middle-blog-content{
+   margin-top:10px;
+   font-size: 14px;
+}
+
+.index-bottom{
+   width:100%;
+   height:5%;
+}
+/*首页END*/
+

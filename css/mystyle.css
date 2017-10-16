@@ -49,7 +49,7 @@
 .index-top-title{
 	position: absolute;
     left:25%;
-    font-size: 28px;
+    font-size: 32px;
 }
 
 
@@ -61,18 +61,28 @@
 }
 
 .index-middle-blog{
-   position: absolute;
-   left:25%;
+   margin-top: 10px;
+   margin-left: 25%;
+   margin-right: 31%;
 }
 
 .index-middle-blog-title{
    font-size: 16px;
    font-weight: bold;
+   width:700px;
+   height:22px;
 }
 
 .index-middle-blog-content{
+   width:700px;
+   height:88px;
    margin-top:10px;
    font-size: 14px;
+}
+.index-middle-page{
+   margin-top: 10px;
+   margin-left: 25%;
+   margin-right: 31%;
 }
 
 .index-bottom{

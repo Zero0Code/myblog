@@ -57,7 +57,7 @@
 	margin-top:10px;
 	margin-bottom: 10px;
     width:100%;
-    height:100%;
+    height:120%;
 }
 
 .index-middle-blog{
@@ -83,11 +83,57 @@
    margin-top: 10px;
    margin-left: 25%;
    margin-right: 31%;
+   text-align: center;
+
+}
+.index-middle-page-first{
+   border-style:solid;
+   padding:0 18px;
+   width: 34px;
+   height: 34px;
+   border: 1px solid #e1e2e3;
+  
 }
 
+.index-middle-page-pre{
+   border-style:solid;
+   padding:0 18px;
+   width: 34px;
+   height: 34px;
+   border: 1px solid #e1e2e3;
+   
+}
+.index-middle-page-num{
+   border-style:solid;
+   padding:0 18px;
+   width: 34px;
+   height: 34px;
+   border: 1px solid #e1e2e3;
+   
+}
+.index-middle-page-next{
+   border-style:solid;
+   padding:0 18px;
+   width: 34px;
+   height: 34px;
+   border: 1px solid #e1e2e3;
+   
+}
+
+.index-middle-page-last{
+   padding:0 18px;
+   width: 34px;
+   height: 34px;
+   border: 1px solid #e1e2e3;
+   border-style:solid;
+
+}
+
+
 .index-bottom{
-   width:100%;
-   height:5%;
+	margin-top:10px;
+    width:100%;
+    height:5%;
 }
 /*首页END*/
 
